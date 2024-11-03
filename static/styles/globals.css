@@ -1,0 +1,8 @@
+:root {
+    --background: white;
+    --accent: goldenrod;
+    --accent-light: rgb(255, 209, 92);
+    --accent-secondary: navy;
+    --secondary: rgb(77, 77, 77);
+    --background-light: rgb(247, 247, 255);
+}
