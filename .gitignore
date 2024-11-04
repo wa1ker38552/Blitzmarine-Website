@@ -3,3 +3,5 @@ hosts.json
 bot.py
 scrape.py
 __pycache__
+announcements.py
+announcements.json

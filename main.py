@@ -25,6 +25,10 @@ def app_index():
 def app_about():
     return render_template('about.html')
 
+@app.route('/announcements')
+def app_announcements():
+    return render_template('announcements.html')
+
 @app.route('/members')
 def app_members():
     return render_template('members.html')
@@ -64,6 +68,10 @@ def api_events_mid(mid):
     if mid in db_cache['members']:
         return db_cache['members'][mid]
     return None
+
+@app.route('/api/announcements')
+def api_announcements():
+    return db_cache['announcements']
 
 # Thread(target=update_db_cache).start()
 app.run(debug=True)

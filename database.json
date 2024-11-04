@@ -5500,5 +5500,913 @@
         "https://cdn.discordapp.com/attachments/1256713927816122440/1257324755250581524/BMP14.jpeg?ex=6728c9ed&is=6727786d&hm=d67eb8797c12910302bdcba63d40eccacf5b7c10890fc3dbbd190a2a4044c173&"
       ]
     }
-  }
+  },
+  "announcements": [
+    {
+      "content": "@everyone React to this message if you are still wanting to be active so I can give you the server invite. Many of the things mentioned are still a work in progress, but expected to be finished soon. \n\n(I will send invite in dms) \n\nNitro giveaway, Ballsdex, & Robux giveaway once we hit 100 members there. \n\n*Do not react if you are going to join to be inactive. The server is a hybrid between community and actual navy, so we have many aspects of both. \n\nWebsite leaks soon from <@695397172169932831> \n\nReact if you are \u2705  (if you already joined, still react)",
+      "mentions": [
+        {
+          "name": "walker",
+          "id": "695397172169932831"
+        }
+      ],
+      "timestamp": 1730617200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "content": "@everyone announcement and speech tomorrow morning.\n\nVery proud of everyone, we rallied 33 people against ONB in a victory.\n\n4-0 in the last 4 skirmishes (we had another one with ONB before that we won)\n\n**New Server** Link will be there as well\n\n- Walker coding a super duper cool website with all group info, player database, and bunch of neat things.\n- Official doc with official rules \n- A bunch of new community roles and activities (we doing hybrid between community and actual navy)\n\nSome familiar new players will be there as well \ud83e\udd2b",
+      "mentions": [],
+      "timestamp": 1730617200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "content": "@everyone \n\nONB SKIRMISH REMINDER:\n\n- <t:1730554200:F> / <t:1730554200:R>\n\nI will post 30 minutes before for pre-rally (assign roles and strategy, be there if you can)",
+      "mentions": [],
+      "timestamp": 1730530800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@here / <@&1255650878485037178> \nI was recently banned from AMD for I guess you can read what Phoenix said.\n\nThis was all because I kindly asked BM to leave AMD as Phoenix continues to subtly tell me BM isn\u2019t welcomed (to their events and activities).\n\nObviously he is trying to pin it on me for starting drama even though I was just doing as he said. I don\u2019t want drama so I am not going to continue this any further, just expose the truth. Please leave AMD if you haven\u2019t yet, BM discrimination is wild.",
+      "mentions": [],
+      "timestamp": 1730358000.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone phoenix has expressed numerous times we are **unwanted in AMD**, so if you are in their server I would please ask you to leave, I don\u2019t want to cause any trouble there, thanks. Please do so.\n\nOn a more positive note, SKIRMISH WITH ONB REMINDER!\n\n- 3RD SKIRMISH \u2014 ONB\n- <t:1730554200:F>\n- Attendees will receive the Taxolous\u2019 Third Cross\n- **DEBRIEF 15-30 MINS BEFORE**\n- ASIAN server (still need EU/NA to come, need flagship roles)\n\nMaybe 30+ rally, this will be our HARDEST skirmish out of the bunch, won\u2019t be an easy blowout this time\u2026",
+      "mentions": [],
+      "timestamp": 1730358000.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "content": "# Server Update\n\n> - Addition of two new bots: <@&1301205825741787148> and <@&1301236747774066812> \n> - New gulag system and the construction of \"Blitz 57\" being completed\n> - Some new channels were added\n> - <#1301206263765667850> (chat logs) channel was made\n> - Promotions still in process\n> - New emojis may or may not be added\n> - <#1274453810013802618> has visual images of the formations now\n> - Addition of some new guidelines \n> - Server security and moderation increased\n> - A court/appeal system has been added for \"Blitz 57\"\n\n|| <@&1255650878485037178> ||",
+      "mentions": [],
+      "timestamp": 1730358000.0,
+      "author": {
+        "id": "1053615568944640080"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "content": "@everyone \n\n3RD SKIRMISH \u2014 ONB\n\n<t:1730554200:F>\n\nAttendees will receive the Taxolous\u2019 Third Cross",
+      "mentions": [],
+      "timestamp": 1730012400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\udde3\ufe0f",
+          "count": 27
+        },
+        {
+          "name": "\ud83d\udd25",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> new guidelines in <#1255648661799440474>",
+      "mentions": [],
+      "timestamp": 1730012400.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone \n\nSWEEPED EAU 2-0\n\nRALLIED 30 PEOPLE.\n\nBM#1!",
+      "mentions": [],
+      "timestamp": 1730012400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\udde3\ufe0f",
+          "count": 23
+        },
+        {
+          "name": "\ud83d\udd25",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> | Votekicking Issue\n- Blitzmarine officers are working at the very moment to investigate about our current problem, is the votekicking issue.\n\nWe would recommend you to set your privacy to Friends only, including <@&1297527723371003924> and <@&1297536077997015070> \n\nIf you can't set it to Friends only, then do not join till the situation is over. If this doesn't work, only the Officers would set it to Friends only, and everyone must turn off their privacy settings off as well!\n\nThis happened before the CoTs Skirmish, specifically happened in Jado's first event.\n\n Godspeed and may be this problem to be over.",
+      "mentions": [],
+      "timestamp": 1729926000.0,
+      "author": {
+        "id": "1238887143338676325"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> | Division Release\n-----------------------------------------\nThe long awaited return of the divisions are now here!\nwe have 2 main divisions AV and  SW  remember u can only be in 1 of the combat division\n\nExcel in aerial combat? then why not join and be part of the of the Blitzmarine air division the **Avian Vanguard!**\nhttps://discord.gg/US5x4fft\n\n----------------------------------------------\nor  if  you enjoy the more main fire power sea domination then why not be part of  the elite **  Sea Wolves**\nhttps://discord.gg/qMuaMCm5",
+      "mentions": [],
+      "timestamp": 1729926000.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "content": "@hereDid i cook rate one to 10 with emojis",
+      "mentions": [],
+      "timestamp": 1729839600.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": [
+        {
+          "name": "1\ufe0f\u20e3",
+          "count": 3
+        },
+        {
+          "name": "2\ufe0f\u20e3",
+          "count": 1
+        },
+        {
+          "name": "3\ufe0f\u20e3",
+          "count": 1
+        },
+        {
+          "name": "4\ufe0f\u20e3",
+          "count": 2
+        },
+        {
+          "name": "5\ufe0f\u20e3",
+          "count": 1
+        },
+        {
+          "name": "6\ufe0f\u20e3",
+          "count": 1
+        },
+        {
+          "name": "7\ufe0f\u20e3",
+          "count": 3
+        },
+        {
+          "name": "8\ufe0f\u20e3",
+          "count": 9
+        },
+        {
+          "name": "9\ufe0f\u20e3",
+          "count": 1
+        },
+        {
+          "name": "\ud83d\udd1f",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178>** | Recent Events**\n--------------------------------------------\nWe all know what is  happening this pass week with all our events with all the *impersonation *,*votekicking* ect  and i gratitude our officers on continuing there events although having multiple  distractions and you all the attendees\nstill having fun while there are many distractions.",
+      "mentions": [],
+      "timestamp": 1729839600.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@here somebody please fix this",
+      "mentions": [],
+      "timestamp": 1729839600.0,
+      "author": {
+        "id": "1053615568944640080"
+      },
+      "reactions": []
+    },
+    {
+      "content": "hello, just wanted to share the new bm wiki  so definetly check it out (just dont scroll to bottom me and walker gonna fix it later)\n\nlink:\nhttps://naval-warfare-roblox.fandom.com/wiki/Blitzmarine\n\ntell me in <#1245134044631662703> if you have any doubts, stuff you want me to add or anything you want me to fix\n\n|| @everyone ||",
+      "mentions": [],
+      "timestamp": 1729839600.0,
+      "author": {
+        "id": "1053615568944640080"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone \nThe Naval Warfare International League is here.\n\nIf you are interested in competing in 1v1s (and team based matches in the future), please join.\n\nWe keep track of records, make matches official, and have prizes.\n\nNO faction affiliation or drama whatsoever, your gameplay speaks for itself.\n\n**Server in progress so sorry if it doesn\u2019t look official yet**\n\nhttps://discord.gg/32EG7Uwu",
+      "mentions": [],
+      "timestamp": 1729753200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone who can attend skirmish with EAU \n\nNew Time: <t:1730035800:F>\n\nReact with check \u2705",
+      "mentions": [],
+      "timestamp": 1729580400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "content": "@everyone \n\nEAU WANTS THE HEAT WITH A SKIRMISH \ud83d\udde3\ufe0f\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n- No eagling (my strategy will be crazy)\n- My VIP\n\n<t:1729951200:F>\n^ may change\n\nalso ill give robux from last skirmish later, this skirmish\u2019s awards will just be medal (Taxolous\u2019 Second Cross, these like collectibles fr)",
+      "mentions": [],
+      "timestamp": 1729580400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\udde3\ufe0f",
+          "count": 33
+        },
+        {
+          "name": "\ud83d\udd25",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> Revamping roles\n\nCurrent changes:\n- Moderators (literally chaos in general rn)\n- Divisions (If accepted by DT's decision)\n\nAlso, <@1130376651583266826> I swear to god...",
+      "mentions": [
+        {
+          "name": "Yamada Ry\u014d",
+          "id": "1130376651583266826"
+        }
+      ],
+      "timestamp": 1729407600.0,
+      "author": {
+        "id": "1238887143338676325"
+      },
+      "reactions": []
+    },
+    {
+      "content": "# BM vs CoTS BATTLE \n@everyone \n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n- <t:1729346400:F> (<t:1729346400:R>)\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n**Pre-Rally:**\n- <t:1729342800:t> - <t:1729344600:t> (chill, warmup, and ask questions).\n\n**Strategy & Unit Debrief:**\n- <t:1729344600:t> - <t:1729345800:t> (please be there as roles/units are assigned)\n- Bad ping will be given certain roles (a lot of roles don\u2019t need good ping)\n\n**Join My Server:**\n- <t:1729345800:t> - <t:1729346400:t>\n- We are USA\n- VC optional \n\n**AWARDS (this is my last battle leading\u2026)**\n- 100 Robux to each attendee\n- Another 100 Robux to each attendee if we win\n- 1,000 Robux to MVP (imo, not score related at all)\n- **Taxolous\u2019 Cross** to each attendee (one time thing)\n^You need to stay for the majority of the battle (1-3 rounds)\n\nI would even like everyone to come, it will be my last time doing this, even all of you ogs, one more time.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+      "mentions": [],
+      "timestamp": 1729234800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "content": "@everyone I was able to get a skirmish with CoTS \ud83e\uddcc (faction vs faction in a VIP) \n\n<t:1729346400:F>\n\n**React if you can attend or probably can attend.** \u2705\n\nI got one of my operations ready (made for large skirmishes).\n\n<@&1245130237835087985> lets increase ac (just get reps in) and eagle defense training.",
+      "mentions": [],
+      "timestamp": 1728975600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "content": "@everyone  | News announcement\nEarlier this evening our comrade and true ally since IAF and formally LLSC owner  *Teevet69coolant'* account was permanently banned by Roblox let us give him the proper support for a possible account recovery. And thank him for his loyal service and dedication.",
+      "mentions": [],
+      "timestamp": 1728889200.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": [
+        {
+          "name": "\ud83e\udee1",
+          "count": 19
+        },
+        {
+          "name": "BM",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "content": "@everyone DO NOT JOIN YARI'S NEW FACTION. He was not permitted as a Flag officier to make a new faction. There is a current rule that officiers, CANNOT make there own faction. This applied for me when I made 318 squadron. Other Naval Warfare factions in past and present have and are keeping the rule enforced\n\nKind Regards,\nAdmiral 257dt",
+      "mentions": [],
+      "timestamp": 1728802800.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone",
+      "mentions": [],
+      "timestamp": 1728630000.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone \nSo I'm currently making the biggest update to date for Blitzmarine, it really is massive, and I can't do it alone. This update will completely change our perspective on Blitzmarine as a whole, with almost every aspect of this group being modified for the better.\n\nThe reasons for this are simple. NW is a repetitive game and Blitzmarine lacks passive engagement (this does not mean we are expanding, its just NW and our group itself will not be boring at all if we can nail this update). It also relies on myself to stay active, meaning an update is in order. \n\nWhen I say every aspect is changing, every aspect is changing. For example, no one cares about our copy and paste events and our boring rank structure with nothing else. No one can do anything but count or collect ballsdex. \n\nIf you have any ideas, PLEASE DM ME. A document is being created, and your ideas could be included.\n\nI'm really working on it, it'll be done in a week max. I promise.\n\nFor those not interested in NW anymore, this one is probably for you, it really takes BM as a group to the next level.",
+      "mentions": [],
+      "timestamp": 1726642800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone \nhttps://discord.com/channels/1245112587872632946/1274423549301489737\n\njoin - also event in 5 mins",
+      "mentions": [],
+      "timestamp": 1725260400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> Major announcement for the future of BM tomorrow with many additional updates (logo work in progress btw, it\u2019s a placeholder)\n\nBM has a bright future \ud83d\ude04",
+      "mentions": [],
+      "timestamp": 1725260400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> \n\nPanicbomb23 has recently been talking negatively about BM and he had started his own group \"CoTs\".\n\nPanicbomb23 was using BM personnel and was advertising to BM members, and has been banned (CoTS dm advertised wereyst, supa, and dyno). \n\nDEADASS his reasoning was \"BM has like 300 members\" and told me it wouldnt matter if he took some. LIKE WTF BRUH \ud83d\ude2d \n\nI told him DM advertising was wrong and he deadass asked me how it was bad. In addition to dm advertising, he has allied with AMD and WuTang, and has enlisted Grim and Baller into CoTS (grim is the same guy who exposed for votekicking). He told me he didn't ally with Grim but he was lying like how he lied about dm advertising. \n\n**Panicbomb23 is a traitor, liar, and dm advertiser who used BM for personal gain.** I even asked him for an apology for lying and dm advertising, and I didn't get one.\n\nThis clown and CoTS is cooked deadass \ud83d\ude4f \ud83d\ude2d \n\nBe ready for deployment.",
+      "mentions": [],
+      "timestamp": 1725174000.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> If you have experience in building designing ***architecture*** and most importantly ***coding*** please dm me as building a whole fucking metro system with ***actual streets*** as well with no team and just me is really hard i work almost 8hrs a day on it ***unpaid*** and i really just need some help. I know i don't host much but its because im trying to get it done as ***one*** teenage kid.\n\nI really need competent people and not just some people who want to try help, i only want high quality builds i have joined many train and tram communities to learn how to do this such as project south island line and LRV roblox.\n\nIf i didn't care about BM why would i do this, dont forget spect and spikes have almost stopped working on the actual rally grounds cos they are so busy. I almost gave up but i didn't cos im doing this BM and our leader\n\n*Heil Taxolous!*\n\n*Heil Taxolous!*\n\n Your servant and Vice Admiral,\n257dt",
+      "mentions": [],
+      "timestamp": 1725087600.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone | **Naval Warfare World Record (Glitchless)**\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nRecently, Blitzmarine has broken the WR for the fastest win in Naval Warfare. \n\n- BM time: 97:22 (2 minutes, 38 seconds)\n- Old time: 97:15 (2 minutes, 45 seconds)\n- *Current record on NW Wiki is a mistake and false*\n\nI would like to thank all the partcipates that made this happen. All will receive 50 Robux for their efforts.\n- <@619909587138773023> \n- <@1073787927219425280> \n- <@890391893136011285> \n- <@880834681644408892> \n- <@888429512226922526> \n- <@1257559878973522020> \n- <@275117932164677633> \n- <@788641797139333120> \n- <@1048995870961578115> \n- <@1130376651583266826> \n- <@1138720470078853241> \n- <@833207974251069500> \n- <@741431149892730920> \n- <@838304838298501130> \n- <@1004894229262237727> \n- <@867577174139338762> \n- <@869577555840213012> \n- <@695397172169932831> \n- <@873660704543084549> \n- <@917560391133978715> \n- <@1238887143338676325> \n- <@768513964622610472> \n- <@1180933759634260062> \n- <@940432254524616735> \n\n*Though this was done on a VIP server, it doesn't matter whether the server was private or public, VIPs count wins. Public servers can also just be filled with alts or be an empty server*\n\nI think we can shave 1-2 seconds possibly, so if record is somehow broken, we will be back at it again.",
+      "mentions": [
+        {
+          "name": "roman",
+          "id": "788641797139333120"
+        },
+        {
+          "name": "Dynosoar",
+          "id": "275117932164677633"
+        },
+        {
+          "name": "Wereyst",
+          "id": "1073787927219425280"
+        },
+        {
+          "name": "QuadriTine",
+          "id": "1048995870961578115"
+        },
+        {
+          "name": "Cris",
+          "id": "873660704543084549"
+        },
+        {
+          "name": "juking the box",
+          "id": "838304838298501130"
+        },
+        {
+          "name": "Panic",
+          "id": "867577174139338762"
+        },
+        {
+          "name": "Yamada Ry\u014d",
+          "id": "1130376651583266826"
+        },
+        {
+          "name": "dem",
+          "id": "869577555840213012"
+        },
+        {
+          "name": "Vacant: \ud835\ude50\ud835\ude63\ud835\ude66\ud835\ude6a\ud835\ude56\ud835\ude63\ud835\ude69\ud835\ude6a\ud835\ude62",
+          "id": "890391893136011285"
+        },
+        {
+          "name": "R\u00e4verester",
+          "id": "888429512226922526"
+        },
+        {
+          "name": "PotatoBigMan",
+          "id": "940432254524616735"
+        },
+        {
+          "name": "Flight Lieutenant DT \ud83c\udde8\ud83c\uddf3\ud83c\udff8",
+          "id": "1004894229262237727"
+        },
+        {
+          "name": "chromakopia",
+          "id": "619909587138773023"
+        },
+        {
+          "name": "walker",
+          "id": "695397172169932831"
+        },
+        {
+          "name": "-Spweep-",
+          "id": "741431149892730920"
+        },
+        {
+          "name": "K24_&",
+          "id": "768513964622610472"
+        },
+        {
+          "name": "IcecubeIcecream1",
+          "id": "833207974251069500"
+        },
+        {
+          "name": "KMS.Bismarck",
+          "id": "880834681644408892"
+        },
+        {
+          "name": "(omega) *insert name here*",
+          "id": "917560391133978715"
+        },
+        {
+          "name": "DancingDuck",
+          "id": "1180933759634260062"
+        },
+        {
+          "name": "Max",
+          "id": "1257559878973522020"
+        },
+        {
+          "name": "Yari",
+          "id": "1238887143338676325"
+        },
+        {
+          "name": "Josh",
+          "id": "1138720470078853241"
+        }
+      ],
+      "timestamp": 1724655600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83c\udf0e",
+          "count": 22
+        },
+        {
+          "name": "\ud83d\udcbf",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> Leak #1 of rally grounds",
+      "mentions": [],
+      "timestamp": 1724655600.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> Mass Leak #4",
+      "mentions": [],
+      "timestamp": 1724569200.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> leak #3",
+      "mentions": [],
+      "timestamp": 1724482800.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\ude2e",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "content": "@everyone \n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nBlitzmarine players are some of the finest, most loyal, and disciplined soliders I think I have led into battle. During Patrol #95, some players raided us, and these were some good players, some consider them the best. I called them washed which maybe I shouldn't have \ud83d\ude05  and I was honestly expecting them to steamroll my group of 10, many were relatively new, only really 2 experienced players. I didn't even bother calling with reinforcements. The battle lasted 20 minutes, and even though we had lost by a messily 2,000 HP, it wasn't the fact that we lost, but it was the fight we put up, and I have to say, even though it was a small-scale battle (10v<10, enemy team playing alts I think), it was phenomenal, just amazing. \n\nIt's easy to say \"we almost won\" or \"we would've won with another player\" in retrospect, and I thought it was really a win, maybe not the desired win, but it showed me that I was wrong in so many ways. \n\nThere is really no time limit on what we can achieve. Though many of us cannot stay here forever, what we stand for does, and we will not stop until we win. I think what we have done here at Blitzmarine in a little under 2 months is just amazing. We are such a knit-tight community with just really some great people. \n\nI know prior announcements have been a more \"get your shit together and lock in\" and I wanted to make this one more reflective and happier because I feel like we come together, not only to have fun, but to make new friends and really enjoy a game we all love. I know we all have school and are busy, but I think all of us coming together to make Blitzmarine happen is amazing. Grateful for it, I know many groups don't have the communtiy we do.\n\nI like this quote, \"When I began, they were soldiers, and when I ended, they were friends.\". I think I was wrong about that as well. I know many of you see me as a leader, and I don't see you all as soldiers, but friends. I know I can be serious because I want us to get better as a whole, and I do it so we can be prepared for more challenges that come our way. I want Blitzmarine to be successful. \n\nJust really proud with everyone, and I think this is a new chapter for Blitzmarine. I know I'm a \"know it all do it all\" kind of guy, but I think it's good to remain humble. I've personally been learning from my mistakes, prepaing us for the future challenges, because yes, we are the Nightmare of the Seas, the Lightning Navy, and I will not accept \"almost winning\". \n\nMedals will be distributed during our ceremony which is hopefully soon. \ud83d\ude04 \n\nReally just wanted to let everyone know that what we've done is special, and what we can do is going to be something great.\n\n\u2014 *Taxolous*\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+      "mentions": [],
+      "timestamp": 1724482800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> speech <t:1724504400:f> / <t:1724504400:R>\n\nI have to sleep first \ud83d\udca4\ud83d\udca4\ud83d\udca4",
+      "mentions": [],
+      "timestamp": 1724482800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> If anyone would like to be a beta tester expect for taxolous as this is a surprise for him, please dm me. I'm currently working on it right now.",
+      "mentions": [],
+      "timestamp": 1724310000.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> LEAK 2 : TRAIN RAIL CURVES",
+      "mentions": [],
+      "timestamp": 1724223600.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\udde3\ufe0f",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "content": "@here <@&1262540733198499840> if you recruit a lot (send DMs) taxolous's\n\nremember everyone  we have atleast  1 week to get  to our goal remember to recruit only players who really wanna play NW",
+      "mentions": [],
+      "timestamp": 1724137200.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> leak #1",
+      "mentions": [],
+      "timestamp": 1724050800.0,
+      "author": {
+        "id": "1004894229262237727"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178>  | Please use the suggestion channel properly and don't send unrelated things in it.",
+      "mentions": [],
+      "timestamp": 1724050800.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": []
+    },
+    {
+      "content": "# @everyone | **Blitzmarine Announcement**\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\ud83d\udccc  **Unit Structure** \n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n> - <:1F:1260717473028898856> 1st Fleet (North America , English)\n> - <:2F:1260717568189272135> 2nd Fleet (Europe, English)\n> - <:3F:1260717604755083324> 3rd Fleet (Asia, English)\n> - <:4F:1274715722823630858> 4th Fleet (South America, Portuguese)\n> - Basically seperated based on timezone/language, which works a lot better for combat. There is also a CoC ( <#1274066537589903451> ).\n>  - KMB and future Brazilians will join this fleet, and have their own channels due to their language, but are still under BM and partcipate in BM activities. Icarus may also merge (smaller group like KMB).\n\n\ud83d\udc55  **NEW Uniform**\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n> There is one new uniform that all BM personnel will use, replacing the old ones. DM me if you need 10 Robux. \n> - [[+] Blitzmarine Uniform](<https://www.roblox.com/catalog/18983592146/Blitzmarine-Uniform>)\n> -  [[-] Blitzmarine Uniform](<https://www.roblox.com/catalog/18983596965/Blitzmarine-Uniform>)\n> - [[OPTIONAL] Hat](<https://www.roblox.com/catalog/114549607/ROBLOX-Naval-Officer-Hat>)\n\n\ud83c\udf96\ufe0f  **Officer Promotions** \n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n> - <@1053615568944640080> Commander > Captain\n> - <@695397172169932831> Lieutenant > Commander\n> - <@788641797139333120> Chief Petty Officer > Lieutenant\n> - <@1021397498029408316> Chief Petty Officer > Ensign\n> - <@1207314080377868322> Chief Petty Officer > Midshipman\n> - <@1010512700721352754> Petty Officer > Midshipman\n> - <@975851504936300644> has received the <@&1262541135684046890> for his long and successful service as an LO.\n\n\ud83c\udf3f  **Recruitment Campaign**\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n> We have exactly 100 enlisted members (after the purge), and our goal will be 125 enlisted members by September 1st, if we can reach that goal, giveaway!\n> - <@&1262540733198499840> if you recruit a lot (send DMs)\n\n\u2b50 **Extra Information**\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n> - Regulations were removed, just follow orders.\n> - Trainings will change, we are focusing on combat more (aerial) as it is the most important during battles.\n> - Old units removed (less specialization, more well-rounded).\n> - Strategies are done, classified for the public. \n> - More updates are happening, just not included here.\n\n**LETS GET RECRUITING & TRAINING!**\n\nSchool sucks, but I think Blitzmarine will do just fine\n- *Admiral Taxolous*\n\n**ACTIVITY CHECK** \u2705 IF YOU SAW THIS MESSAGE.\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014",
+      "mentions": [
+        {
+          "name": "roman",
+          "id": "788641797139333120"
+        },
+        {
+          "name": "Wassoi guy.",
+          "id": "1207314080377868322"
+        },
+        {
+          "name": "Malaysiasoldier2",
+          "id": "975851504936300644"
+        },
+        {
+          "name": "M10 Booker",
+          "id": "1053615568944640080"
+        },
+        {
+          "name": "des",
+          "id": "1010512700721352754"
+        },
+        {
+          "name": "brian",
+          "id": "1021397498029408316"
+        },
+        {
+          "name": "walker",
+          "id": "695397172169932831"
+        }
+      ],
+      "timestamp": 1723964400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> \n\nMajor update planned on <t:1723993200:f> / <t:1723993200:R>. Here are some things that it will be covering.\n\n- New unit structure.\n- New uniforms (in store on group if you want to buy early, it's one uniform for all ranks).\n- New group(s) merging with BM.\n- New logo (current one isn't final).\n- Regulations rework (not as strict).\n- New officers (and retirement of 1 officer).\n- Station game is almost done, probably some sneak peeks from DT.\n- Recruitment campaign.\n- Hype speech maybe.",
+      "mentions": [],
+      "timestamp": 1723964400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone \n\nI\u2019ll return from my Guts & Blackpowder grind, BUT more activity please \ud83d\udc4d\n\n- Strategies almost done, several more. Undecided whether or not they will be public or private.\n- More promotions.\n- More aerial training as well since it\u2019s key to winning battles.",
+      "mentions": [],
+      "timestamp": 1723791600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83e\uddcc",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178>  | With the lost of 3 active duty members and one committing treason and with the morality of the faction at stake do not think of this as our downfall but we can fix this problem if we work together so per deployment or casual play we must recruit  players who are interested to join  we can boost our activities again and with all the hard work we do we can revive BM once more. \n\n- i will also be starting to host soon",
+      "mentions": [],
+      "timestamp": 1723705200.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone if you play Guts & Blackpowder and can be active in a group, join this:\n- https://discord.gg/wY3Ut7g8hU\n- https://www.roblox.com/groups/34775436/1er-R-giment-R-sistant#!/about\n\nand yes, the placeholder logo is the 1CVD \ud83e\uddcc \n\n**dont join if you have no interest in G&B (like napoleonic wars zombies)**",
+      "mentions": [],
+      "timestamp": 1723359600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178>  | You all need to stop with this bullshit **sending Gore saying N word** BM is not a place without regulations and u all know that \ni don't want to see more of this mess ever again this like the Gartic phone incident.\n\nyou all are already allowed to do other bullshit stuff but now this is just to much* Taxolous* wanted this place to be not like AMD but you all making equivalent to it.",
+      "mentions": [],
+      "timestamp": 1723359600.0,
+      "author": {
+        "id": "1130376651583266826"
+      },
+      "reactions": []
+    },
+    {
+      "content": "<@&1255650878485037178> | Roman, the founder of United Federation is planning on  coming back and will be effective ||immediately|| \n\nLet us all rebind our past mistakes and forgive ourselves for what we've done, let us welcome Roman  back to Blitzmarine.",
+      "mentions": [],
+      "timestamp": 1723273200.0,
+      "author": {
+        "id": "1238887143338676325"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 24
+        }
+      ]
+    },
+    {
+      "content": "@everyone \nI know Blitzmarine may have hit some low points with some players leaving. I even considered calling it quits, but that is not what we stand for. We are an elite group of individuals. Respect, loyalty, and dedication is what separates us. Units will begin specialization training.\n\nI think everyone is tired of playing defender. It is time we strike back, and we will strike like lightning. Let me make it clear, I don't want to bring down any groups, just simply beat them with good sportsmanship. We will be going after any faction thats hosts (not all the time, again, just every now and then). All factions, AMD/EAU/ONB/SA/7F are the same to us, you don't have to treat them with respect, but you will not show any bad sportsmanship (don't talk about them in a bad manner).\n\nWhether it's a win or loss, I want silence. Silence in victory, silence in defeat.\n\nWe may have some tough battles, perharps even some losses, but when you're deployed into combat, you'll be right next to the players that have the same training, loyalty, and respect as you do. \n\nWe are the Nightmare of the Seas, let's live up to the fucking name.",
+      "mentions": [],
+      "timestamp": 1722409200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone **GAMEPASS + UNIFORM FUNDING**\n\n**REACT** if you can't afford or don't own these items. You cannot lie or spend funds on anything but the item you requested it.\n\nDepending on your unit and activity, you may be denied some items (like you don't need a parachute if you're in the 2BBD). React to any that you need anyways.\n\n**HYPE SPEECH TOMMORROW I PROMISE!**\n\n\ud83d\udc55 - Uniform\n<:CV:1261300503586017351> - Aircraft Carrier\n<:BB:1261300382924144721> - Battleship\n\ud83e\ude99 - 2x Coins\n\ud83d\ude80 - RPG\n\ud83e\ude82 - Parachute\n\ud83d\udd2d - Binoculars\n----------------------------------------------------",
+      "mentions": [],
+      "timestamp": 1722322800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\ud83d\udc55",
+          "count": 24
+        },
+        {
+          "name": "CV",
+          "count": 21
+        },
+        {
+          "name": "BB",
+          "count": 20
+        },
+        {
+          "name": "\ud83e\ude99",
+          "count": 30
+        },
+        {
+          "name": "\ud83d\ude80",
+          "count": 15
+        },
+        {
+          "name": "\ud83e\ude82",
+          "count": 16
+        },
+        {
+          "name": "\ud83d\udd2d",
+          "count": 19
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> | **A new Blitzmarine, one of discipline, respect, and hardwork. Greatness.**\n- Funding for ALL active BM players for gamepasses and uniforms guaranteed in 7 days.\n - ALL gamepasses (BB/CV may be not be given due to your unit specialization).\n- All uniforms are done.\n - [Store](<https://www.roblox.com/groups/34387869/Blitzmarine#!/about>) + [Enlisted Cap](<https://www.roblox.com/catalog/10058505/Sailor-Cap>) (Warrant / Petty Officer are Enlisted)\n- Allied with ICS and KMB (brazilian) and voiding hostile groups who want attention.\n- Allowing event raiding (BM members cannot). Just means we don't care if you raid and won't act like you're a \"raider\" unless it's a group effort.\n- Enforcing more disciplinary actions such as \"sir\", \"permission to speak\", etc. \n - For looks, respect, and efficiency on the battlefield (still a lego game, so don't worry casual players).\n\nThere are many groups who show hosility towards us, but I do ask everyone to just ignore them, in-game and no need to talk further about them on Discord. I don't want to hear you talk about them, they're irrelevant in our situation.\n\nAlso need more recruitment, lets go for 5 per day. **Get recruiting!** For those who are inactive, you're missing out.",
+      "mentions": [],
+      "timestamp": 1721458800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> / <@&1255650903352938496> | **Divisiona and Squadron Reworks!**\n\nMAKE SURE YOU READ https://discord.com/channels/1245112587872632946/1261516395913412649\n\n**Even if you already enlisted into a division, please RE-ENLIST and re-read as the original units were changed. If you are new, please enlist as well.**\n\nMinor Updates:\n- Each unit has their own categories with announcement, events, and text channels. The Divisional / Flight Commanders will manage it (their training and leading styles will vary)\n- Activites category\n- Handbook removed (all info on Discord)\n- Database / Valor removed (it is still based on your activity)\n- New officers\n- Added medals (no graphics yet)\n- Added formations\n- Advanced strategies are in progress and utilize ALL units, each is assigned a task to make the strategy effective, should have a lot of neat ones, and these take some strategic thinking, so I need time to brainstorm them.\n\n**I want everyone to enlist into a unit because it allows you to do something that interests you and promotes your strengths. There are no activity requirements.**\n- **RE-ENLIST HERE:** https://discord.com/channels/1245112587872632946/1262541806365577308\n- Guide: https://discord.com/channels/1245112587872632946/1262412080087044107",
+      "mentions": [],
+      "timestamp": 1721113200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": []
+    },
+    {
+      "content": "@everyone\nBlitzmarine, founded 2 pillars. Loyalty and dedication. There will always be those who try to hurt us, bring us down, disrupt our operations, and I'm here to tell you that they are trying to bring down the very home we swore to defend.\n\nDefend. There are many individuals and groups who wish to attack us. We are going to let them destroy everything you worked for? No, Blitzmarine is more than a navy, it's home to a people with loyalty and dedication to their group, united as one, working together to defend our home and values. It's more than a simple conflict, it's an attack on our community and people.\n\nWe are the Blitzmarine, the greatest fucking navy, get that through your minds, they are only raiding us because we are their final challenge. Set aside our differences, and we can beat these assholes for good. Even after my attempted peace talks, AMD, SA, certain individuals, and potentially JWN/EAU still wish to take our community away. This isn't a troll anymore, it's an attack.\n\nMore trainings will take place. **I will begin to give out funding for gamepasses, make sure you are in one of these groups, [NWO](<https://www.roblox.com/groups/32049067/Naval-Warfare-Organization#!/about>) or [IF](<https://www.roblox.com/groups/33990953/Imperial-Fleet-IF#!/about>)**\n\nThere will always those who wish to take, and I ask you to defend. Blitzmarine #1.\n\nI will begin to work on divisions and new updates even more.",
+      "mentions": [],
+      "timestamp": 1720681200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "content": "@everyone | **BLITZMARINE MINECRAFT SERVER!**\n----------------------------------------------------\nThank you Shane who is paying $28/month for this server.\n- High-quality server\n- Hosted in France so solid ping for everyone.\n- Bedrock/Pocket Edition (No Java but PC players still have Bedrock).\n- Cherry blossom biome at spawn which is cool.\n- Not crack so no pirated MC.\n- Rules: No hacking, exploiting, glitching, or being weird.\n - Idc if you form clans, cause chaos, backstab, raid, or whatever.\n- v1.21.2 (just update MC to the latest verison).\n----------------------------------------------------\nServer Information:\n- Name: Blitzmarine\n- Server IP: 162.19.94.62\n- Server Port: 25666\n- **Releasing the server information** <t:1720611000:R> (<t:1720611000:f>)\n----------------------------------------------------\nThis isn't a crappy server like aternos, it's an actual paid server, NO LAG!\n- REACT \u2705 if you have MC and will join.\n----------------------------------------------------",
+      "mentions": [],
+      "timestamp": 1720594800.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "\u2705",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "content": "@everyone | **RECRUITMENT CAMPAIGN & FUNDING**\nIt is time we recruit, I would like ALL active Blitzmarine personnel to go into Naval Warfare servers, post on group walls, ask friends, or find other methods (not aganist Roblox/Discord ToS) to recruit. I don't want randoms who will never do anything in this group, I want Naval Warfare players. Roblox group for funding [HERE](<https://www.roblox.com/groups/32049067/Naval-Warfare-Organization#!/about>) (and BM group)\n------------------------------------------\n- `1 Recruit = 1 Valor`\n - `Recruits must be enlisted (Roblox group + listed username) (Ordinary Seaman)`\n - `You must DM me proof of recruitment AFTER they enlist.`\n------------------------------------------\n**GOALS FOR ONE WEEK** *(78 Enlisted members at the time of this message)*\n- 100 Enlisted members: All active divisionals (anyone can join) will be funded RPG + Parachute + Binos.\n- 125 Enlisted Members: All active divisionals will be funded RPG + Parachute + Binos, and if they are in the 1CVD/2BBD, BB/CV gamepasses as well. \n- 150 Enlisted Members: Most gamepasses (up to 30,000 Robux in group funds, and yes, we have more Robux, just not using it for this campaign). \n*Most new enlisted members will be on the end of the waiting list for gamepasses since they have to attend events and show they're active.*\n------------------------------------------\nRules:\n- Anyone suspected of using alts/bots will end BADLY.\n- False use of funds will end BADLY. \n- Inviting players that aren't active will be voided.\n------------------------------------------\n**LETS GET RECRUITING, BLITZMARINE #1!**\n------------------------------------------",
+      "mentions": [],
+      "timestamp": 1720076400.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> \nToday we were tested, Blitzmarine was challenged. An equal force of players consisting of elements of the East Asia Union and Japanese Warrior Nation raided us today. \n\nThough we were down 10,000+ health early on from the eagle attacks, we pushed forward, we got ourselves together and worked as a team to defeat the enemy. The battle lasted 30 minutes, and near the end, both teams were down 2,000 health, it was tense, hard, but as the Blitzmarine, we pushed and rose victorious. We are 2-0 in battles aganist JWN / EAU.\n\nToday was a testament to our strength, and we showed them the reason we are *The Nightmare of the Seas*.\n\n**BLITZMARINE #1**\n------------------------------------------",
+      "mentions": [],
+      "timestamp": 1719990000.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "content": "@everyone **DIVISIONS!**\nWe are currently pioneering Naval Warfare strategics and tactics with our new divisions. These new divisions will greatly increase our proficency in Naval Warfare by giving us the variety and coordination that simple same-ship fleets that ever single faction performs doesn't. \n\nThis means our actual events will be advanced (still will have some basic ones for people who want to chill sometimes), making a more fun experience because we will be using every aspect of the game for the best tactics, no other faction has been able to successfully run divisions like this, let's make it happen! We are the fastest growing faction! *Divisions still in development in terms of training, channels, positions, etc*\n\n**READ <#1256704946909351956> -> \"Units\" before applying!**\n\n- Ship Divisions (ships only)\n - 1st Aircraft Carrier Division\n - 2nd Battleship Division\n - 3rd Submarine Division\n - 4th Heavy Cruiser Division\n - 5th Destroyer Division (Invitation-only)\n- Squadrons (planes only)\n - VF-01 \"Gold 318s\" (Invitation-only)\n - VF-02 \"Blackjacks\" \n - VF-03 \"Stuka Sirens\"\n*Most gamepasses will be funded, join what you want.*\n**ENLIST NOW** in <#1257837127996145756>. **BLITZMARINE #1**\n------------------------------------------",
+      "mentions": [],
+      "timestamp": 1719903600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> \n> Today we fought a battle, a battle aganist the combined forces of the East Asia Union (EAU), Japanese Warrior Nation (JWN), and Royal Rokovan Navy (RRN).\n\n> We rose victorious, they were simply one of the many tests Blitzmarine will undergo on the road to success. We shall defend, no matter the cost, this turned into our largest event, thank you everyone. And yes, they did put up a solid fight.\n\n> We'll take this momentum and focus on recruitment. \n> - **EVERYONE try to at least recruit 1 friend or player that has interests in NW or wants to give us a shot.** \n> Could be a Robux Pls Donate event if we do enough \ud83d\ude09 \n\n**BLITZMARINE #1, *NIGHTMARE OF THE SEAS***\n------------------------------------------",
+      "mentions": [],
+      "timestamp": 1719903600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178> \n> It's been 3 days since we rebirthed and progress is going great. Here's what we accomplished those 3 days.\n> - 43 Discord enlisted members.\n> - Level 3 server (custom invite, discord.gg/blitzmarine)\n> - Completed protocols (divisions left).\n> - 17 average attendence / event.\n\nNew Updates:\n> - Added <#1257353303474311218> (big hit)\n> - Added <#1257345716167377046> \n> - Finished <#1256704946909351956> page (besides divisions).\n> - <@695397172169932831> **made a Blitzmarine database which is really neat, check it out!**\n>  - https://blitzmarine.github.io/\n> - <@629006104755699732> made our new banner!\n\n**Lets keep up the good work, BLITZMARINE #1!**\n------------------------------------------",
+      "mentions": [
+        {
+          "name": "Fred vorp",
+          "id": "629006104755699732"
+        },
+        {
+          "name": "walker",
+          "id": "695397172169932831"
+        }
+      ],
+      "timestamp": 1719903600.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "content": "<@&1255650878485037178>\n<:BM:1256714316267126805> ***The Blitzmarine, The Lightning Navy, The Nightmare of the Seas***\n\n> The end of an era, and the beginning of another. Perhaps a new journey, one filled with opportunities. Founded by players with one common goal, creating one of the most powerful navies in Naval Warfare while having fun along the way. We are equipped with some of the most experienced players and resources, we are set up for success. This is why I ask you to take it. \n\nHere is our general development roadmap:\n> 1. Finish any protocols / regulations.\n> 2. Recruitment Campaign.\n> 3. All uniforms finished + graphics + lvl 3 server \n> 4. Introduce divisions (should be big)\n> 5. Funding for gamepasses distributed.\n\nBlitzmarine is our home, and we will cherish and defend it, no matter the cost.\n**LETS GET RECRUITING AND TRAINING! BLITZMARINE #1!**\n------------------------------------------",
+      "mentions": [],
+      "timestamp": 1719817200.0,
+      "author": {
+        "id": "980105142898671649"
+      },
+      "reactions": [
+        {
+          "name": "BM",
+          "count": 31
+        }
+      ]
+    }
+  ]
 }
